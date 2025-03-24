@@ -100,12 +100,10 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
     background-size: cover;
     padding: 4rem 0;
 
@@ -126,5 +124,5 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #f1d6e4;
 }
